@@ -1,0 +1,39 @@
+body{
+    background-color: #DCD7C9;
+}
+
+h1 {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.cafe-detail {
+    background-image: url("https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2938&q=80");
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+}
+
+.container {
+    margin: auto;
+}
+
+.cafe-data img {
+   width: 25%;
+   height: 100%;
+   display: block;
+}
+
+.cafe-data {
+    margin: 50px auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+.cafe-detail {
+  margin: 100px auto;
+  width: 50%;
+  border: 3px solid grey;
+  padding: 10px;
+}
